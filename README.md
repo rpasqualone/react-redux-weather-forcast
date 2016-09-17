@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React Redux Scaffold
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 	> git clone https://github.com/rpasqualone/react-redux-scaffold.git
-	> cd ReduxSimpleStarter
+	> cd react-redux-scaffold
 	> npm install
 	> npm start
 ```
