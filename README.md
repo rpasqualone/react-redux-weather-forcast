@@ -1,6 +1,6 @@
 # React Redux Scaffold
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Simple scaffold for a React/Redux application using webpack.
 
 ###Getting Started###
 
