@@ -1,3 +1,17 @@
-.table.table-hover th {
-	width: 25%;
+.input-group {
+	margin: 20px 0;
+}
+
+td, th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+#weather-chart {
+	table-layout: fixed;
+}
+
+td:first-of-type {
+	height: 200px;
+	width:250px;
 }

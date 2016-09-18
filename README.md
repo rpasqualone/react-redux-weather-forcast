@@ -1,6 +1,6 @@
 # React Redux Weather Forecast
 
-React application using Redux that allows user to search weather forecasts. Done to experiment with Redux and async operations.
+React application using Redux that allows user to search weather forecasts. Done to experiment with Redux and async operations. Also, app takes advantage of Google maps via third party plugin to render a map of the desired city's location.
 
 ###Getting Started###
 
